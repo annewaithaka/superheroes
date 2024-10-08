@@ -1,4 +1,4 @@
-from app import db, Hero, Power, HeroPower  # Adjust according to your app structure
+from app import db, Hero, Power, HeroPower 
 
 def seed_data():
     # Create power instances
